@@ -59,15 +59,6 @@ async function generateTables(repos) {
   output.push(...repoRankings);
   output.push('-->');
 
-  // Add header
-  output.push(...[
-    `> _Sorted by popularity on ${(new Date()).toDateString()}_`,
-    '',
-    '| 🥇 | 🥈 | 🥉 |',
-    '| :---:         |     :---:      |          :---: |',
-  ]);
-
-  // Add sorted table
   let string = '';
   for (let i = 0; i < repos.length; ++i) {
     string += `| [**${repos[i].title}**<br/> ` +
