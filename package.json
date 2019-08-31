@@ -1,0 +1,22 @@
+{
+  "name": "hacker-news-clones",
+  "version": "1.0.0",
+  "description": "Hacker news clones",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dj0nny/hacker-news-clones.git"
+  },
+  "author": "dj0nny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dj0nny/hacker-news-clones/issues"
+  },
+  "homepage": "https://github.com/dj0nny/hacker-news-clones#readme",
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  }
+}
