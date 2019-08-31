@@ -16,13 +16,13 @@
 
 <!--
   Ranking:
-     1: hacker-news-vue
+     1: hacker-news-angular
      2: hacker-news-react
-     3: hacker-news-angular
+     3: hacker-news-vue
 -->
 | Angular | React | Vue |
 | :---:         |     :---:      |          :---: |
-| [**hacker-news-vue**<br/> ![hacker-news-vue](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/vue.png) ![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)| [**hacker-news-react**<br/> ![hacker-news-react](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/react.png) ![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)| [**hacker-news-angular**<br/> ![hacker-news-angular](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/angular.png?token=AEFKFPHIP2IDH4IGAX5CB7S5OQBR6) ![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)
+| [**hacker-news-angular**<br/> <img src="https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/angular.png?token=AEFKFPHIP2IDH4IGAX5CB7S5OQBR6" title="hacker-news-angular" style="width:40%;display:block" />![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)| [**hacker-news-react**<br/> <img src="https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/react.png?token=AEFKFPFCJLX4PXWZOJY3RRS5OQB4W" title="hacker-news-react" style="width:40%;display:block" />![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)| [**hacker-news-vue**<br/> <img src="https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/vue.png?token=AEFKFPBMO2LLD37J4OUXIAK5OQB6A" title="hacker-news-vue" style="width:40%;display:block" />![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)
 
 
 ## Author
