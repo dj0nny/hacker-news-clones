@@ -59,6 +59,11 @@ async function generateTables(repos) {
   output.push(...repoRankings);
   output.push('-->');
 
+  output.push(...[
+    '| Angular | React | Vue |',
+    '| :---:         |     :---:      |          :---: |',
+  ]);
+
   let string = '';
   for (let i = 0; i < repos.length; ++i) {
     string += `| [**${repos[i].title}**<br/> ` +
