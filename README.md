@@ -43,6 +43,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [Francesco Giambruno](https://github.com/dj0nny).
+Copyright © 2019 [Francesco Giambruno](https://github.com/dj0nny/hacker-news-clones/blob/develop/LICENSE.md).
 
 This project is [MIT](https://github.com/dj0nny/hacker-news-clones#readme) licensed.
