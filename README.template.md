@@ -1,3 +1,3 @@
-# hacker-news-clone
+# hacker-news-clones
 
 INSERT HERE THE REPOSITORIES
