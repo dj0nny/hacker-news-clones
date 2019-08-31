@@ -1,3 +1,9 @@
 - title: hacker-news-vue
   repo:  dj0nny/hacker-news-vue
   logo:  https://vuejs.org/images/logo.png
+- title: hacker-news-react
+  repo:  dj0nny/hacker-news-vue
+  logo:  https://vuejs.org/images/logo.png
+- title: hacker-news-angular
+  repo:  dj0nny/hacker-news-vue
+  logo:  https://vuejs.org/images/logo.png

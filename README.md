@@ -17,10 +17,13 @@
 <!--
   Ranking:
      1: hacker-news-vue
+     2: hacker-news-react
+     3: hacker-news-angular
 -->
-| Vue |
-| :---:         |
-| [**hacker-news-vue**<br/> ![hacker-news-vue](https://vuejs.org/images/logo.png) ![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)
+| Angular | React | Vue |
+| :---:         |     :---:      |          :---: |
+| [**hacker-news-vue**<br/> ![hacker-news-vue](https://vuejs.org/images/logo.png) ![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)| [**hacker-news-react**<br/> ![hacker-news-react](https://vuejs.org/images/logo.png) ![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)| [**hacker-news-angular**<br/> ![hacker-news-angular](https://vuejs.org/images/logo.png) ![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)
+
 
 ## Author
 
