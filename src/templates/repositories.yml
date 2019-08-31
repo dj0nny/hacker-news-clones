@@ -1,9 +1,3 @@
-- title: vue-function-api-realworld
-  repo:  dj0nny/vue-function-api-realworld
-  logo:  https://raw.githubusercontent.com/gothinkster/react-redux-realworld-example-app/master/project-logo.png
-- title: svelte-express-boilerplate
-  repo:  dj0nny/svelte-express-boilerplate
-  logo:  https://cloud.githubusercontent.com/assets/556934/25448178/3e7dc5c0-2a7d-11e7-8069-06da5169dae6.png
-- title: Drupal7-entity-field-query
-  repo:  dj0nny/Drupal7-entity-field-query
-  logo:  https://raw.githubusercontent.com/gothinkster/angular2-realworld-example-app/master/logo.png
+- title: hacker-news-vue
+  repo:  dj0nny/hacker-news-vue
+  logo:  https://vuejs.org/images/logo.png

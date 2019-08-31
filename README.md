@@ -16,14 +16,11 @@
 
 <!--
   Ranking:
-     1: Drupal7-entity-field-query
-     2: vue-function-api-realworld
-     3: svelte-express-boilerplate
+     1: hacker-news-vue
 -->
-| Angular | React | Vue |
-| :---:         |     :---:      |          :---: |
-| [**Drupal7-entity-field-query**<br/> ![Drupal7-entity-field-query](https://raw.githubusercontent.com/gothinkster/angular2-realworld-example-app/master/logo.png) ![Star](https://img.shields.io/github/stars/dj0nny/Drupal7-entity-field-query.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/Drupal7-entity-field-query.svg?style=social&label=Fork)](https://github.com/dj0nny/Drupal7-entity-field-query)| [**vue-function-api-realworld**<br/> ![vue-function-api-realworld](https://raw.githubusercontent.com/gothinkster/react-redux-realworld-example-app/master/project-logo.png) ![Star](https://img.shields.io/github/stars/dj0nny/vue-function-api-realworld.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/vue-function-api-realworld.svg?style=social&label=Fork)](https://github.com/dj0nny/vue-function-api-realworld)| [**svelte-express-boilerplate**<br/> ![svelte-express-boilerplate](https://cloud.githubusercontent.com/assets/556934/25448178/3e7dc5c0-2a7d-11e7-8069-06da5169dae6.png) ![Star](https://img.shields.io/github/stars/dj0nny/svelte-express-boilerplate.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/svelte-express-boilerplate.svg?style=social&label=Fork)](https://github.com/dj0nny/svelte-express-boilerplate)
-
+| Vue |
+| :---:         |
+| [**hacker-news-vue**<br/> ![hacker-news-vue](https://vuejs.org/images/logo.png) ![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)
 
 ## Author
 

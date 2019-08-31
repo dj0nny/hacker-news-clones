@@ -59,9 +59,14 @@ async function generateTables(repos) {
   output.push(...repoRankings);
   output.push('-->');
 
+  // output.push(...[
+  //   '| Angular | React | Vue |',
+  //   '| :---:         |     :---:      |          :---: |',
+  // ]);
+
   output.push(...[
-    '| Angular | React | Vue |',
-    '| :---:         |     :---:      |          :---: |',
+    '| Vue |',
+    '| :---:         |',
   ]);
 
   let string = '';
