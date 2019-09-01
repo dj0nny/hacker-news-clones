@@ -9,7 +9,7 @@
 
 INSERT HERE THE REPOSITORIES
 
-**N.B:**: **hacker-news-angular** and **hacker-news-react** will be create soon
+**N.B:**: **hacker-news-angular** and **hacker-news-react** will be create soon 👷
 
 ## Author
 
