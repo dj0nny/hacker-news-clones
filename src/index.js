@@ -68,7 +68,7 @@ async function generateTables(repos) {
   let string = '';
   for (let i = 0; i < repos.length; ++i) {
     string += `| [**${repos[i].title}**<br/> ` +
-      `![${repos[i].title}](${repos[i].logo})` +
+      `![${repos[i].title}](${repos[i].logo})<br/>` +
       `![Star](https://img.shields.io/github/stars/${repos[i].repo}.svg?style=social&label=Star) ` +
       `![Fork](https://img.shields.io/github/forks/${repos[i].repo}.svg?style=social&label=Fork)]` +
       `(https://github.com/${repos[i].repo})`;
