@@ -4,7 +4,7 @@
   "description": "Hacker news clones",
   "main": "src/index.js",
   "scripts": {
-    "test": "node src/index.js"
+    "generate": "node src/index.js"
   },
   "repository": {
     "type": "git",

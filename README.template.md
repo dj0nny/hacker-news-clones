@@ -5,11 +5,11 @@
 
 > Hacker News clones built with Angular, React and Vue
 
-### 🏠 [Homepage](https://github.com/dj0nny/hacker-news-clones#readme)
-
 ## Repositories
 
 INSERT HERE THE REPOSITORIES
+
+**N.B:**: **hacker-news-angular** and **hacker-news-react** will be create soon
 
 ## Author
 

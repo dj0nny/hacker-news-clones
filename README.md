@@ -10,8 +10,6 @@
 
 > Hacker News clones built with Angular, React and Vue
 
-### 🏠 [Homepage](https://github.com/dj0nny/hacker-news-clones#readme)
-
 ## Repositories
 
 <!--
@@ -22,8 +20,10 @@
 -->
 | Angular | React | Vue |
 | :---:         |     :---:      |          :---: |
-| [**hacker-news-angular**<br/> ![hacker-news-angular](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/angular.png?token=AEFKFPHIP2IDH4IGAX5CB7S5OQBR6)![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)| [**hacker-news-react**<br/> ![hacker-news-react](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/react.png?token=AEFKFPFCJLX4PXWZOJY3RRS5OQB4W)![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)| [**hacker-news-vue**<br/> ![hacker-news-vue](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/vue.png?token=AEFKFPBMO2LLD37J4OUXIAK5OQB6A)![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)
+| [**hacker-news-angular**<br/> ![hacker-news-angular](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/angular.png?token=AEFKFPHIP2IDH4IGAX5CB7S5OQBR6)![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-angular.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-angular.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-angular)| [**hacker-news-react**<br/> ![hacker-news-react](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/react.png?token=AEFKFPFCJLX4PXWZOJY3RRS5OQB4W)![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-react.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-react.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-react)| [**hacker-news-vue**<br/> ![hacker-news-vue](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/vue.png?token=AEFKFPBMO2LLD37J4OUXIAK5OQB6A)![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)
 
+
+**N.B:**: **hacker-news-angular** and **hacker-news-react** will be create soon
 
 ## Author
 
