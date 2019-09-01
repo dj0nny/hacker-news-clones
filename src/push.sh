@@ -3,7 +3,7 @@
 set -x
 set -e
 
-node ./update-readme.js
+node ./index.js
 
 export BRANCH_NAME=updated-readme
 git --version
