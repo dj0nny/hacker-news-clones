@@ -7,4 +7,6 @@ git:
   depth: false
 
 script:
-  - cd src && ./push.sh
+  - cd src
+  - chmod 777 ./push.sh
+  - ./push.sh
