@@ -17,11 +17,12 @@
      1: hacker-news-angular
      2: hacker-news-react
      3: hacker-news-vue
+     4: hacker-news-svelte
 -->
 | Angular | React | Vue |
 | :---:         |     :---:      |          :---: |
 | [**hacker-news-angular**<br/> ![hacker-news-angular](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/angular.png?token=AEFKFPHIP2IDH4IGAX5CB7S5OQBR6)<br/>![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-angular.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-angular.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-angular)| [**hacker-news-react**<br/> ![hacker-news-react](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/react.png?token=AEFKFPFCJLX4PXWZOJY3RRS5OQB4W)<br/>![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-react.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-react.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-react)| [**hacker-news-vue**<br/> ![hacker-news-vue](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/vue.png?token=AEFKFPBMO2LLD37J4OUXIAK5OQB6A)<br/>![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-vue.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-vue.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-vue)
-
+| [**hacker-news-svelte**<br/> ![hacker-news-svelte](https://raw.githubusercontent.com/dj0nny/hacker-news-clones/develop/public/svelte.png)<br/>![Star](https://img.shields.io/github/stars/dj0nny/hacker-news-svelte.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/dj0nny/hacker-news-svelte.svg?style=social&label=Fork)](https://github.com/dj0nny/hacker-news-svelte)
 
 ## Author
 
